@@ -1,0 +1,13 @@
+export { scriptsDescription } from './scripts';
+export { experimentsDescription } from './experiments';
+export { billingDetailsDescription } from './billing-details';
+export { manageDescription } from './manage';
+export { analyticsDescription } from './analytics';
+export { pushNotificationTestDescription } from './push-notification-test';
+export { credentialsDescription } from './credentials';
+export { snapshotsDescription } from './snapshots';
+export { gamesAdminDescription } from './games-admin';
+export { regionDescription } from './region';
+export { testHarnessDescription } from './test-harness';
+export { segmentQueryFiltersDescription } from './segment-query-filters';
+export { notificationsDescription } from './notifications';
